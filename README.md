@@ -68,9 +68,30 @@ This project uses the following libraries and packages:
 ## Installation
 
 1. Clone the repository.
+
+```bash
+git clone https://github.com/dzineer/dz-reactjs-chrome-base-extension.git dz-new-chrome-extension
+```
+
+OR
+
+Install the repository like this:
+
+```bash
+npx degit dzineer/dz-reactjs-chrome-base-extension dz-new-chrome-extension
+cd dz-new-chrome-extension
+```
+
 2. Navigate to the project directory.
+
+```bash
+cd dz-new-chrome-extension
+```
+
 3. Run `npm install` or `yarn install` to install dependencies.
 4. Run `webpack --mode development` to build the project.
+
+5. Check the dist folder for the output files.
 
 ---
 
