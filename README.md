@@ -113,6 +113,6 @@ Contributions are welcome! Please read the contributing guidelines before making
 
 ## License
 
-This project is not open source and is under a private license owned by Frank Decker.
+This project is licensed under the MIT License.
 
 ---
